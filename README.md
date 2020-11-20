@@ -9,11 +9,11 @@
 
 <p>
   <a href="https://mobile.twitter.com/Artis7eeR">
-    <img align="left" alt="($!)'s Twitter" width="24px" src="assets/twitter.jpeg" />
-  </a>
+    <img  alt="($!)'s Twitter" width="24px" src="assets/twitter.jpeg" />
+  </a> &nbsp;
   <a href="https://www.youtube.com/channel/UCxMfvQKldiIYk2GIXa7pLsw">
-    <img align="left" alt="($!)'s YouTube" width="24px" src="assets/youtube.png" />
-  </a>
+    <img alt="($!)'s YouTube" width="24px" src="assets/youtube.png" />
+  </a> &nbsp;
   <a href="https://telegram.dog/Artis7eeR">
     <img align="left" alt="($!)'s Telegram" width="24px" src="assets/telegram.png"/>
   </a>
@@ -21,6 +21,6 @@
 <br/>
 <br/>
 
-<h2>stats 🙈</h2>
+<h2>Stats 🙈</h2>
 
 ![Github Stats](https://readmestats.vercel.app/api?username=artis7eer&show_icons=true&title_color=333&icon_color=d43111&count_private=true&include_all_commits=true)
