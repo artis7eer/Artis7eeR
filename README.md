@@ -8,15 +8,13 @@
 <h2>Social 📱</h2>
 
 <p>
-  <a href="https://mobile.twitter.com/Artis7eeR">
-    <img  alt="($!)'s Twitter" width="24px" src="assets/twitter.jpeg" />
-  </a> &nbsp;
-  <a href="https://www.youtube.com/channel/UCxMfvQKldiIYk2GIXa7pLsw">
-    <img alt="($!)'s YouTube" width="24px" src="assets/youtube.png" />
-  </a> &nbsp;
-  <a href="https://telegram.dog/Artis7eeR">
-    <img align="left" alt="($!)'s Telegram" width="24px" src="assets/telegram.png"/>
-  </a>
+ [ <a href="https://mobile.twitter.com/Artis7eeR">
+     <b>Twitter</b></a> ]
+ [ <a href="https://www.youtube.com/channel/UCxMfvQKldiIYk2GIXa7pLsw">
+    <b>Youtube</b>  </a> ]
+ [ <a href="https://telegram.dog/Artis7eeR">
+     <b>Telegram</b>
+   </a> ]
 </p>
 <br/>
 <br/>
