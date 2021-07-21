@@ -14,6 +14,12 @@
     <b>Youtube</b>  </a> ]
  [ <a href="https://telegram.dog/Artis7eeR">
      <b>Telegram</b>
+   </a> ] <br/>
+ [ <a href="https://www.instagram.com/artis7eer">
+     <b>Instagram</b>
+   </a> ] 
+[ <a href="https://www.reddit.com/user/artis7eer">
+     <b>Reddit</b>
    </a> ]
 </p>
 <br/>
