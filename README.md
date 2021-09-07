@@ -3,7 +3,6 @@
 ['Name']            : ['RasaK'],
 ['AKA']             : ['Artis7eeR'],
 ['What_I_Do']       : ['($!)'],
-['Inspired_Quote']  : ['Knowledge Is Power']
 ```
 <h2>Social 📱</h2>
 
