@@ -18,8 +18,8 @@
 <br/>
 <a href="https://instagram.com/artis7eer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="artis7eer" height="40" width="40" /></a>
 <a href="https://hashnode.com/@artis7eer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="artis7eer" height="40" width="40" /></a>
-<a href="https://www.youtube.com/c/ucxmfvqkldiiyk2gixa7plsw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucxmfvqkldiiyk2gixa7plsw" height="40" width="40" /></a>
-<a href="https://discord.gg/artis7eer#4267" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="artis7eer#4267" height="50" width="50" /></a> 
+<a href="https://youtube.com/channel/UCxMfvQKldiIYk2GIXa7pLsw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucxmfvqkldiiyk2gixa7plsw" height="40" width="40" /></a>
+<a href="https://discord.gg/9TrBTJCPkD" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="artis7eer#4267" height="50" width="50" /></a> 
 <br/>
 <a href="https://telegram.dog/artis7eer" target="blank"><img align="center" src="https://edent.github.io/SuperTinyIcons/images/svg/telegram.svg" alt="artis7eer" height="40" width="40" /></a>
 <a href="https://www.reddit.com/user/artis7eer" target="blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/reddit.svg" height="40" width="40" alt="artis7eer" /></a>
