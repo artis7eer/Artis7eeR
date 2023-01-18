@@ -17,6 +17,3 @@
 <a href="https://www.reddit.com/user/artis7eer" target="blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/reddit.svg" height="40" width="40" alt="artis7eer" /></a>
 <a href="https://stackoverflow.com/users/16289917/artis7eer" target="blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/stackoverflow.svg" height="40" width="40" alt="artis7eer" /></a>
 <a href="https://medium.com/@artis7eer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@artis7eer" height="100" width="40" /></a>
-
-### Status 🙈:
-<img src="https://github-readme-stats.vercel.app/api?username=artis7eer&show_icons=true&title_color=333&icon_color=d43111&count_private=true&include_all_commits=true" height="100" width="300">
