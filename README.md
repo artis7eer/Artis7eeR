@@ -3,8 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=artis7eer&label=Profile%20views&color=0e75b6&style=flat" alt="artis7eer" /> </p>
 
-- 🌱 I’m currently learning **NestJS and Go**
-- 💬 Ask me about  **Python,PHP and Javascript**
+- 💬 Ask me about  **Python,PHP,C# and Javascript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
